@@ -26,6 +26,7 @@ li {
 
 img {
   display: block;
+  max-width: 100%;
 }
 
 .page {
@@ -899,6 +900,7 @@ main {
     flex-direction: row;
     flex-wrap: wrap;
     column-gap: 24px;
+    width: 584px;
 
     margin: 0 auto;
   }
