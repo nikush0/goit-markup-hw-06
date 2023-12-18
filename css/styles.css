@@ -926,6 +926,8 @@ main {
   .footer-container {
     align-items: baseline;
     gap: 0;
+    max-width: 1158px; 
+    flex-wrap: nowrap;
   }
   .footer-main-p {
     margin-right: 120px;
